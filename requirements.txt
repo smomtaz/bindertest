@@ -1,6 +1,24 @@
 pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+
+# Geospatial
 geopandas
+shapely
 pyarrow
+fiona
+pyproj
+rtree
+
+# Leaflet map
+ipyleaflet
+
+# Google Drive
+requests
+
+# Voila for rendering notebooks
 voila
 ipywidgets
-requests
